@@ -1,0 +1,10 @@
+{
+  "description": "A responsive mobile app that guides users through four connected screens, making it easy to explore its features with simple tap-based navigation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
